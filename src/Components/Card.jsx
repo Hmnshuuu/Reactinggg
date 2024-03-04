@@ -26,3 +26,4 @@ function Card(){
 }
 
 export default Card;
+//ese hum reusable components bnate h
